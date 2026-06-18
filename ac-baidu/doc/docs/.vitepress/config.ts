@@ -10,7 +10,7 @@ export default defineConfig({
   head: [
     ['meta', { name: 'preconnect', content: 'https://tools.acdiao.com/' }],
     ['meta', { name: 'preconnect', content: 'https://www.xn--4gq62f52gdss.wiki' }],
-    ['meta', { name: 'preconnect', content: 'https://v.xn--4gq62f52gdss.plus' }],
+    ['meta', { name: 'preconnect', content: 'https://bboo.boo' }],
   ],
   themeConfig: {
     lastUpdatedText: '更新',
@@ -46,7 +46,7 @@ export default defineConfig({
           {
             text: '推荐链接',
             items: [
-              { text: '一元机场.PLUS', link: 'https://v.xn--4gq62f52gdss.plus/b/?code=g4WEkq4j', target: '_blank' },
+              { text: '一元机场.PLUS', link: 'https://bboo.boo/#/?code=g4WEkq4j', target: '_blank' },
               { text: '一元机场.WIKI', link: 'https://www.xn--4gq62f52gdss.wiki/3-link-sites/choose-price.html', target: '_blank' },
               { text: '老猫工具箱', link: 'https://tools.acdiao.com/', target: '_blank' },
               { text: '网站定做', link: 'https://www.at8.fun/', target: '_blank' },
